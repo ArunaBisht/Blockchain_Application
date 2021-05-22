@@ -1,14 +1,16 @@
-# blockchain_application-
+# blockchain_application
 
 This is an application build upon blockchain-based ledger system in a decentralized system and with a user-friendly web interface. This ledger would allow banks to conduct financial transactions ie.transfer money between senders and receivers and to verify the integrity of the data in the ledger.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Web-interface
+#Web-interface
+
 ![](snapshots/capture1.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Web-interface
+#Web-interface
 ![](snapshots/capture2.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
